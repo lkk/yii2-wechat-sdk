@@ -1,0 +1,21 @@
+{
+    "name": "lkk/yii2-wechat-sdk",
+    "type": "yii2-extension",
+    "description": "Yii2 Wechat SDK",
+    "keywords": ["yii2", "wechat", "weixin"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "caige",
+            "email": "caige@caige.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "lkk\\wechat\\sdk\\": ""
+        }
+    }
+}
